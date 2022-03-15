@@ -1,5 +1,8 @@
 $("document").ready(()=>{
     $(".show_tree").click(()=>{
-        $(".tree").slideToggle();
+        $(".treeImages").slideToggle();
+    })
+    $(".moringa").click(()=> {
+        $("#moringaTree").fadeIn();
     })
 })

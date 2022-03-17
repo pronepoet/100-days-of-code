@@ -9,3 +9,12 @@
 **Link(s) to work**: 
 Navigate to the Environs folder in this same repo
 
+### Day 1: March 17, 2022
+
+**Today's Progress**: Added some information about Moringa and put it in the grid system. Added the licence and deployed my site to gh-pages.
+
+**Thoughts**: I love bootstrap :).I did not do much today in my site, but had good fun learning objects. Can't wait to grasp this concept and put it to practice.
+
+**Link(s) to work**: 
+[here](https://github.com/pronepoet/Environs)
+

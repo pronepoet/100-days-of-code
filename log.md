@@ -18,3 +18,12 @@ Navigate to the Environs folder in this same repo
 **Link(s) to work**: 
 [here](https://github.com/pronepoet/Environs)
 
+### Day 2: March 18, 2022
+
+**Today's Progress**: Added more content to my trees website. Changes the font styling for different sections of the page and added the footer section wih the disqus Api.
+
+**Thoughts**: I was tired but going on strong :) I love the different api template disqus gives you. I'm going to create my own version of this
+
+**Link(s) to work**: 
+[here](https://github.com/pronepoet/Environs)
+

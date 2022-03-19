@@ -6,8 +6,8 @@
 
 **Thoughts**: I was tired today but had to start my journey otherwise it would remain a dream. I love JQUERY and how interesting you can get it to perform interesting animations with just simple lines of code. I also noticed placing a row item inside the page without nesting it inside of the bootstrap container element gives the column items some space between them. Flexbox is nice but my images were overflowing out of the field of view. PS. Technically this project was started yesterday so...
 
-**Link(s) to work**: 
-Navigate to the Environs folder in this same repo
+**Link(s) to work**:
+[here](https://github.com/pronepoet/Environs)
 
 ### Day 1: March 17, 2022
 
@@ -18,6 +18,7 @@ Navigate to the Environs folder in this same repo
 **Link(s) to work**: 
 [here](https://github.com/pronepoet/Environs)
 
+
 ### Day 2: March 18, 2022
 
 **Today's Progress**: Added more content to my trees website. Changes the font styling for different sections of the page and added the footer section wih the disqus Api.
@@ -26,4 +27,15 @@ Navigate to the Environs folder in this same repo
 
 **Link(s) to work**: 
 [here](https://github.com/pronepoet/Environs)
+
+
+### Day 3: March 19, 2022
+
+**Today's Progress**: Learnt about a different way of creating objects through the use of constructors. Also learnt about prototypes and how they are used.
+
+**Thoughts**: Constructors definitely make the use of objects much easier. A little challenging to understand but am sure I'll get in in time
+
+**Link(s) to work**: 
+[here](https://github.com/pronepoet/address-book)
+
 

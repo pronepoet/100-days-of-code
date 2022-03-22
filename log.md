@@ -39,3 +39,12 @@
 [here](https://github.com/pronepoet/address-book)
 
 
+### Day 4: March 23, 2022
+
+**Today's Progress**: Used the concepts learnt on day 3 to make a pizza delivery app
+
+**Thoughts**: I need to work on responsiveness. Also look for an api to get real locations. Also I need to work on constructors a little more, still rusty here.
+
+**Link(s) to work**: 
+[here](https://github.com/pronepoet/Pizza-palace)
+

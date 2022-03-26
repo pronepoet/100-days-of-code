@@ -48,3 +48,25 @@
 **Link(s) to work**: 
 [here](https://github.com/pronepoet/Pizza-palace)
 
+
+### Day 5: March 25, 2022
+
+**Today's Progress**: Object constructors, css styling, JQUERY and Bootsrtap styling 
+
+**Thoughts**: I was tired from a group project and these skills I got from the project are the ones I had learnt and posted about. Awesome working in a team as marvelous as the one I worked wuth. Pentagon!
+
+**Link(s) to work**: 
+
+
+
+### Day 6: March 26, 2022
+
+**Today's Progress**: Added mailchimp api to the project Delani Studio. Updated some css styling also and formated it correctly.
+
+**Thoughts**: I need to look for a way to incorporate the contact form here that adds the message feature.
+
+**Link(s) to work**: 
+
+
+[here](pronepoet.github.io/delani-studio/)
+

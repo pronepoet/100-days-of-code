@@ -53,9 +53,10 @@
 
 **Today's Progress**: Object constructors, css styling, JQUERY and Bootsrtap styling 
 
-**Thoughts**: I was tired from a group project and these skills I got from the project are the ones I had learnt and posted about. Awesome working in a team as marvelous as the one I worked wuth. Pentagon!
+**Thoughts**: I was tired from a group project and these skills I got from the project are the ones I had learnt and posted about. Awesome working in a team as marvelous as the one I worked with. Pentagon!
 
 **Link(s) to work**: 
+[here](ch1n069.github.io/voting-system/)
 
 
 
@@ -69,4 +70,19 @@
 
 
 [here](pronepoet.github.io/delani-studio/)
+
+### Day 7: March 27, 2022
+
+**Today's Progress**:  Updated my project to have better syling for beauty purposes. My contact section also had to be styled to have a transparent form from mailchimp.
+
+**Thoughts**: My images do not display in github live. Why? (I guess github takes time to upload files)
+
+**Link(s) to work**: [here](https://github.com/pronepoet/Delani-studio)
+
+### Day 8: March 28, 2022
+
+**Today's Progress**: Started learning Angular. Wish me luck!
+
+**Thoughts**: Seems like an easier way of coding, with Typescript.
+
 

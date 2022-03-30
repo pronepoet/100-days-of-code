@@ -86,3 +86,26 @@
 **Thoughts**: Seems like an easier way of coding, with Typescript.
 
 
+### Day 9: March 29, 2022
+
+**Today's Progress**: Learned typescript and how it transpiles to JS! Learned how to create components and how to call them in a page.
+
+**Thoughts**: A bit difficult to grasp at first, we'll see how it goes.
+
+
+
+### Day 10: March 30, 2022
+
+**Today's Progress**: Today I added lazy loading for my images in the carousel. Added more styling and added a sticky footer.
+
+**Thoughts**: Sticky footer takes the styling of the parent container if the vh is set to 100. careful not to use a container
+
+
+
+### Day 11: March 31, 2022
+
+**Today's Progress**: Tackled asynchronous programming. Learned how to make get requests to the apis 
+
+**Thoughts**: Promises were difficult to wrap my head around. Will  review it tomorrow.
+
+

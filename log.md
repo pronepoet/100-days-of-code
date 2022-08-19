@@ -9,7 +9,7 @@
 **Link(s) to work**:
 [here](https://github.com/pronepoet/Environs)
 
-### Day 1: March 17, 2022
+### Day 1: AUGUST 20, 2022
 
 **Today's Progress**: Added some information about Moringa and put it in the grid system. Added the licence and deployed my site to gh-pages.
 
@@ -17,95 +17,3 @@
 
 **Link(s) to work**: 
 [here](https://github.com/pronepoet/Environs)
-
-
-### Day 2: March 18, 2022
-
-**Today's Progress**: Added more content to my trees website. Changes the font styling for different sections of the page and added the footer section wih the disqus Api.
-
-**Thoughts**: I was tired but going on strong :) I love the different api template disqus gives you. I'm going to create my own version of this
-
-**Link(s) to work**: 
-[here](https://github.com/pronepoet/Environs)
-
-
-### Day 3: March 19, 2022
-
-**Today's Progress**: Learnt about a different way of creating objects through the use of constructors. Also learnt about prototypes and how they are used.
-
-**Thoughts**: Constructors definitely make the use of objects much easier. A little challenging to understand but am sure I'll get in in time
-
-**Link(s) to work**: 
-[here](https://github.com/pronepoet/address-book)
-
-
-### Day 4: March 23, 2022
-
-**Today's Progress**: Used the concepts learnt on day 3 to make a pizza delivery app
-
-**Thoughts**: I need to work on responsiveness. Also look for an api to get real locations. Also I need to work on constructors a little more, still rusty here.
-
-**Link(s) to work**: 
-[here](https://github.com/pronepoet/Pizza-palace)
-
-
-### Day 5: March 25, 2022
-
-**Today's Progress**: Object constructors, css styling, JQUERY and Bootsrtap styling 
-
-**Thoughts**: I was tired from a group project and these skills I got from the project are the ones I had learnt and posted about. Awesome working in a team as marvelous as the one I worked with. Pentagon!
-
-**Link(s) to work**: 
-[here](ch1n069.github.io/voting-system/)
-
-
-
-### Day 6: March 26, 2022
-
-**Today's Progress**: Added mailchimp api to the project Delani Studio. Updated some css styling also and formated it correctly.
-
-**Thoughts**: I need to look for a way to incorporate the contact form here that adds the message feature.
-
-**Link(s) to work**: 
-
-
-[here](pronepoet.github.io/delani-studio/)
-
-### Day 7: March 27, 2022
-
-**Today's Progress**:  Updated my project to have better syling for beauty purposes. My contact section also had to be styled to have a transparent form from mailchimp.
-
-**Thoughts**: My images do not display in github live. Why? (I guess github takes time to upload files)
-
-**Link(s) to work**: [here](https://github.com/pronepoet/Delani-studio)
-
-### Day 8: March 28, 2022
-
-**Today's Progress**: Started learning Angular. Wish me luck!
-
-**Thoughts**: Seems like an easier way of coding, with Typescript.
-
-
-### Day 9: March 29, 2022
-
-**Today's Progress**: Learned typescript and how it transpiles to JS! Learned how to create components and how to call them in a page.
-
-**Thoughts**: A bit difficult to grasp at first, we'll see how it goes.
-
-
-
-### Day 10: March 30, 2022
-
-**Today's Progress**: Today I added lazy loading for my images in the carousel. Added more styling and added a sticky footer.
-
-**Thoughts**: Sticky footer takes the styling of the parent container if the vh is set to 100. careful not to use a container
-
-
-
-### Day 11: March 31, 2022
-
-**Today's Progress**: Tackled asynchronous programming. Learned how to make get requests to the apis 
-
-**Thoughts**: Promises were difficult to wrap my head around. Will  review it tomorrow.
-
-

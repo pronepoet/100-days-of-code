@@ -1,19 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 16, 2022
+### Day 0: July 25, 2023
 
-**Today's Progress**: Started coding this tree website. Added some slide effects to the jquery and bootstrap for styling.
+**Today's Progress**: Got back to the kejani homes project. Had to do some revision of props as well.
 
-**Thoughts**: I was tired today but had to start my journey otherwise it would remain a dream. I love JQUERY and how interesting you can get it to perform interesting animations with just simple lines of code. I also noticed placing a row item inside the page without nesting it inside of the bootstrap container element gives the column items some space between them. Flexbox is nice but my images were overflowing out of the field of view. PS. Technically this project was started yesterday so...
+**Thoughts**: This could be a great application. I have to see how far I can take it and this helps with keeping me busy with an actual project to experiment my ideas on...
 
 **Link(s) to work**:
-[here](https://github.com/pronepoet/Environs)
-
-### Day 1: AUGUST 20, 2022
-
-**Today's Progress**: Added some information about Moringa and put it in the grid system. Added the licence and deployed my site to gh-pages.
-
-**Thoughts**: I love bootstrap :).I did not do much today in my site, but had good fun learning objects. Can't wait to grasp this concept and put it to practice.
-
-**Link(s) to work**: 
-[here](https://github.com/pronepoet/Environs)
+[coming soon](https://github.com/pronepoet/)
